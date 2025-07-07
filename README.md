@@ -6,7 +6,7 @@ A simple and responsive currency converter app built with HTML, CSS, and JavaScr
 
 ## 🌐 Live Demo
 
-👉 [Click to view the app](https://yourusername.github.io/currency-converter/)
+👉 [Click to view the app](https://Sanjana-Narla123.github.io/currency-converter/)
 
 > ⚠️ Replace `yourusername` with your actual GitHub username.
 
