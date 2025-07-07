@@ -8,7 +8,7 @@ A simple and responsive currency converter app built with HTML, CSS, and JavaScr
 
 👉 [Click to view the app](https://Sanjana-Narla123.github.io/currency-converter/)
 
-> ⚠️ Replace `yourusername` with your actual GitHub username.
+
 
 ---
 
